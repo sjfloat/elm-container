@@ -2,7 +2,7 @@
 from sjfloat/nodejs
 
 user root
-run npm install elm      -g
+run npm install elm@0.18 -g
 run npm install elm-test -g
 
 user $USER
